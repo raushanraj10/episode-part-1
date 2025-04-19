@@ -1,0 +1,91 @@
+#nav1{
+    display: flex;
+    justify-content: space-between;
+}
+#image{
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+   
+}
+#hi{
+    width: 150px;
+    height: 150px;
+}
+#tool{
+    display: flex;
+    margin: 50px;
+    gap: 20px;
+   
+}
+.ab{
+    text-decoration:none;
+    font-size: 20px;
+}
+#cart{
+    margin-top:-6px;
+}
+input{
+    margin-left: 40%;
+}
+#b{
+    margin-left: 10px;
+}
+button:hover{
+    color: slateblue;
+}
+#card{
+    width: 200px;
+    height:300px;
+    margin: 20px;
+    margin-top:50px;
+    
+}
+#card:hover{
+    border-radius: 5%;
+    border: 3px solid black;
+}
+#parentcard{
+    display: flex;  
+    flex-wrap: wrap;
+}
+#food{
+    width:200px;
+    height: 180px;
+    border-radius: 6%;
+}
+#text{
+    margin:0;
+}
+#variety{
+    margin: 0;
+}
+#star{
+    display: flex;
+    justify-content: space-between;
+}
+.rate{
+    margin:5px;
+}
+.raty{
+    margin:3px;
+}
+#deco{
+    margin: 10px;
+    border-radius: 2%;
+    
+}
+#content{
+    border: 1px solid black;
+    border-radius: 2%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.3))
+
+}
+h5{
+    margin: 20px;
+}
+#parent{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(154, 154, 176,0.3),rgba(89, 9, 131,0.3));
+}
